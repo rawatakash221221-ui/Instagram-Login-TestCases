@@ -16,7 +16,7 @@ It covers valid and invalid login scenarios to ensure proper system behavior.
 ## Test Case Details
 - Testing Type: Manual Testing
 - Format: Excel (.xlsx)
-- Number of Test Cases: 15+
+- Number of Test Cases: 5+
 
 ## Repository Structure
 Instagram-Login-TestCases
